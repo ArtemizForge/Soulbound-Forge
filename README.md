@@ -2,8 +2,8 @@
 
 A fan-made character creator for **Warhammer Age of Sigmar: Soulbound** (Cubicle 7).
 
-Build a character step by step — species and calling, archetype, attributes, skills, talents,
-lores of magic, gods and miracles, equipment — and finish on a printable character dossier.
+Build a character step by step: Species and Faction, archetype, attributes, skills, talents,
+lores of magic, gods and miracles, equipment and finish on a printable character dossier.
 Every talent, spell and miracle entry carries its **sourcebook and page number**, so the tool
 points you back to the books rather than standing in for them.
 
