@@ -1,11 +1,12 @@
 # Soulbound Forge
 
 A fan-made character creator for **Warhammer Age of Sigmar: Soulbound** (Cubicle 7).
-
+<img src="https://storage.ko-fi.com/cdn/useruploads/e3aa5b3d-d477-4fdc-9a20-43eaa6ae71e1_png_c2b22b28-a2ee-4336-9394-f5489ca4e07fcover.png?v=13cf4a42-57e5-4c84-b5d1-b7cd374eb154"></img>
 Build a character step by step: Species and Faction, archetype, attributes, skills, talents,
-lores of magic, gods and miracles, equipment and finish on a printable character dossier.
-Every talent, spell and miracle entry carries its **sourcebook and page number**, so the tool
-points you back to the books rather than standing in for them.
+spells, equipment and finish on a printable character sheet.
+Every talent, spell and miracle entry shows a **sourcebook and page number**, so the tool
+refers you back to the books. You need the rulebooks to play, and honestly you should own them.
+Cubicle 7 made an awesome game.
 
 ---
 
